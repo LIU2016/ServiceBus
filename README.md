@@ -34,4 +34,9 @@
 		</dependency>
 
 1.2，代码调用参考上传的AzureServer和CXFWcfServer文件。请注意证书认证的问题。附带java的Keytool工具证书导入导出工具。
-    
+
+# 2，参考地址
+
+sdk方式：https://www.azure.cn/documentation/articles/service-bus-java-how-to-use-topics-subscriptions/
+
+WCF方式：https://msdn.microsoft.com/zh-cn/library/dn574799.aspx
