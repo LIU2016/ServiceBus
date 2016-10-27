@@ -7,7 +7,7 @@
 
 1-1，maven项目中Pom引用（服务部署WCF）:
 
-<dependency>
+		<dependency>
 			<groupId>org.apache.cxf</groupId>
 			<artifactId>cxf-rt-frontend-jaxws</artifactId>
 			<version>2.5.2</version>
